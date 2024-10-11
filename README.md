@@ -1,7 +1,7 @@
 
 # Reward-Augmented Data Enhances Direct Preference Alignment of LLMs
 
-Code for [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](https://shenao-zhang.github.io/).
+Code for [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](http://arxiv.org/abs/2410.08067).
 
 Authors: [Shenao Zhang](https://shenao-zhang.github.io)¹, Zhihan Liu¹, Boyi Liu², Yufeng Zhang, Yingxiang Yang², Yongfei Liu², Liyu Chen², Tao Sun², [Zhaoran Wang](https://zhaoranwang.github.io)¹.
 
