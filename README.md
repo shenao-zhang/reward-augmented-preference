@@ -46,5 +46,16 @@ Then run standard DPO on the reward-augmented preference data, e.g., on the [Qwe
 ACCELERATE_LOG_LEVEL=info accelerate launch --config_file recipes/accelerate_configs/deepspeed_zero3.yaml scripts/run_dpo.py recipes/qwen2-7b-instruct-dpo-ra/dpo/config_full.yaml
 ```
 
+## Citation
+
+```bibtex
+@article{zhang2024reward,
+  title={Reward-Augmented Data Enhances Direct Preference Alignment of LLMs},
+  author={Zhang, Shenao and Liu, Zhihan and Liu, Boyi and Zhang, Yufeng and Yang, Yingxiang and Liu, Yongfei and Chen, Liyu and Sun, Tao and Wang, Zhaoran},
+  journal={arXiv preprint arXiv:2410.08067},
+  year={2024}
+}
+```
+
 ## Acknowledgement
 This repo is built upon [The Alignment Handbook](https://github.com/huggingface/alignment-handbook). We thank the authors for their great work. 
